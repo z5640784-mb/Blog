@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "My Health Data Science Career Blog"
+  title: "My Health Data Science - Career Blog"
   navbar:
     right:
       - about.qmd
